@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "noisy-haze-b2df",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e2eecec2-0f9d-42ef-b7a5-a730852fb8fc",
+      "database_name": "hono-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
